@@ -39,3 +39,18 @@ We use Python Seaborn Package to show the correlation in between the World Bank 
 The last raw (column) of the matrix shows the correlation in between life expectancy and 12 indicators we selected from the World Bank database. We can find that the population, income and imports of good and service have significant positive impact for life expectancy and employment have negative relation with life expectancy.
 
 ![](Images/CorrelationMatrix.PNG)
+
+## Reference
+Data Resources:
+- The World Bank: "https://data.worldbank.org/country/china"
+- China National Bureau of Statistics of China: "http://data.stats.gov.cn/"
+
+Pyhton Visualization Packages:
+- Folium: "https://python-visualization.github.io/folium/"
+- Seaborn: "https://seaborn.pydata.org/"
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
