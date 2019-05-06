@@ -14,7 +14,7 @@ There are three useful folders included in this Repo.
 - In this folder we include three ipynb files (python notebook) for, maps in Chinese and English result map and analytic report. It needs to be emphasized that before running the program make sure give the correct path for input file.
 3. Result: 
 - “China 1990, 2000, 2010 life expectancy (EN).html” is the English version of the result map
-- “中国1990，2000，2010预期寿命可视化图.html” is the Chinese version of the result map
+- “China 1990, 2000, 2010 life expectancy (CN).html” is the Chinese version of the result map
 
 ## App Introduction:
 ### Part I:
