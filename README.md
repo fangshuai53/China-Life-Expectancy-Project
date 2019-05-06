@@ -33,7 +33,9 @@ In below it is the same choropleth map but displayed in Chinese:
 ### Part III:
 We use Python Seaborn Package to visualize a “Heat Map” of the life expectancy ranks:
 
-![](Images/RankMatrix.png)
+![](Images/RankMatrix.PNG)
 
 We use Python Seaborn Package to show the correlation in between the World Bank indicators and life expectancy:
-![](Images/CorrelationMatrix.png)
+The last raw (column) of the matrix shows the correlation in between life expectancy and 12 indicators we selected from the World Bank database. We can find that the population, income and imports of good and service have significant positive impact for life expectancy and employment have negative relation with life expectancy.
+
+![](Images/CorrelationMatrix.PNG)
