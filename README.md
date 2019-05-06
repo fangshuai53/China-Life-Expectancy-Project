@@ -44,6 +44,8 @@ The last raw (column) of the matrix shows the correlation in between life expect
 Data Resources:
 - The World Bank: "https://data.worldbank.org/country/china"
 - China National Bureau of Statistics of China: "http://data.stats.gov.cn/"
+- China National Health Commission: "http://www.nhc.gov.cn/zhuz/web/ydd.shtml" 
+- China National Health and Family Planning Commission 
 
 Pyhton Visualization Packages:
 - Folium: "https://python-visualization.github.io/folium/"
