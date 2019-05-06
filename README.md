@@ -9,7 +9,7 @@ There are three useful folders included in this Repo.
 - Data_0 is the original file that only includes Chinese Life Expectancy information 
 - Data_1 is the file for essential use of program. The raw data include the name and location (Lat, Lon) of the province, the life expectancy by years and genders. 
 - Indicator is the file includes selected indicators from the World Bank. It is the data set for analytic report.
--CHN-provinces is the json file for the base map
+- CHN-provinces is the json file for the base map
 2. Code: 
 - In this folder we include three ipynb files (python notebook) for, maps in Chinese and English result map and analytic report. It needs to be emphasized that before running the program make sure give the correct path for input file.
 3. Result: 
