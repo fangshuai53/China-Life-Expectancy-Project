@@ -16,5 +16,24 @@ There are three useful folders included in this Repo.
 - “China 1990, 2000, 2010 life expectancy (EN).html” is the English version of the result map
 - “中国1990，2000，2010预期寿命可视化图.html” is the Chinese version of the result map
 
-## App Introduction 
+## App Introduction:
+### Part I:
+If you open the project map (HTML files) correctly, you will see the interactive map shown in below:
+-	You can choose different layers from layer box. Layers can display the choropleth map by different years and genders. 
+-	You can click the information popup icons on the map. It shows the information for each province.
+-	You can click the analytics popup icons on the lower side of the map. It shows the base descriptive result of the data by different years 
+
 ![](Images/MapScreenShot.png)
+
+### Part II:
+In below it is the same choropleth map but displayed in Chinese:
+
+![](Images/MapScreenShot.png)
+
+### Part III:
+We use Python Seaborn Package to visualize a “Heat Map” of the life expectancy ranks:
+
+![](RankMatrix.png)
+
+We use Python Seaborn Package to show the correlation in between the World Bank indicators and life expectancy.
+![](Images/CorrelationMatrix.png)
