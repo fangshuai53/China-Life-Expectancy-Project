@@ -28,12 +28,12 @@ If you open the project map (HTML files) correctly, you will see the interactive
 ### Part II:
 In below it is the same choropleth map but displayed in Chinese:
 
-![](Images/MapScreenShot.png)
+![](Images/MapScreenShotCN.png)
 
 ### Part III:
 We use Python Seaborn Package to visualize a “Heat Map” of the life expectancy ranks:
 
-![](RankMatrix.png)
+![](Images/RankMatrix.png)
 
-We use Python Seaborn Package to show the correlation in between the World Bank indicators and life expectancy.
+We use Python Seaborn Package to show the correlation in between the World Bank indicators and life expectancy:
 ![](Images/CorrelationMatrix.png)
